@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Java Fundamentals/Boxing.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "Java Fundamentals/Boxing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "Java Fundamentals/Boxing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
+                "file": "Java Fundamentals/Boxing.md"
               }
             }
           }
@@ -157,7 +157,17 @@
   },
   "active": "cca9cc1779c7f3ce",
   "lastOpenFiles": [
-    "Test.md",
-    "Welcome.md"
+    "Welcome.md",
+    "Leet Coding/Cheat Sheet.md",
+    "Leet Coding/Dynamic Programming.md",
+    "Leet Coding/Wisdom.md",
+    "Java Fundamentals/Boxing.md",
+    "Data Structures/Graphs.md",
+    "Algorithms/Kadane's Algorithm.md",
+    "Leet Coding",
+    "Java Fundamentals",
+    "Data Structures",
+    "Algorithms",
+    "Test.md"
   ]
 }

@@ -1,0 +1,4 @@
+- Infinity: `Double.POSITIVE_INFINITY`
+- Double to Int: `myDouble.intValue()` 
+- Sum array: Arrays.stream(arr).sum()
+- Sort array: Arrays.sort(arr)
