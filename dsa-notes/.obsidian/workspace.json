@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kruskal's.md",
+                "file": "Algorithms/Kruskal's.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kruskal's.md",
+                "file": "Algorithms/Kruskal's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kruskal's.md",
+                "file": "Algorithms/Kruskal's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kruskal's.md"
+                "file": "Algorithms/Kruskal's.md"
               }
             }
           }
@@ -167,10 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1908c9bfe01e7c7",
+  "active": "b108f9e04f25a44c",
   "lastOpenFiles": [
     "Data Structures/Graphs.md",
-    "Kruskal's.md",
+    "Algorithms/Kruskal's.md",
     "Algorithms/Dijkstra's.md",
     "Algorithms/Kadane's Algorithm.md",
     "Java Fundamentals/Boxing.md",
