@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Dijkstra's.md",
+                "file": "Algorithms/Kruskal's.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms/Dijkstra's.md",
+                "file": "Algorithms/Kruskal's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms/Dijkstra's.md",
+                "file": "Algorithms/Kruskal's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms/Dijkstra's.md"
+                "file": "Algorithms/Kruskal's.md"
               }
             }
           }
@@ -181,10 +181,10 @@
   },
   "active": "e166e7a29ed4b50d",
   "lastOpenFiles": [
+    "Algorithms/Kadane's Algorithm.md",
+    "Algorithms/Dijkstra's.md",
     "Algorithms/Kruskal's.md",
     "Data Structures/Graphs.md",
-    "Algorithms/Dijkstra's.md",
-    "Algorithms/Kadane's Algorithm.md",
     "Java Fundamentals/Boxing.md",
     "Welcome.md",
     "Leet Coding/Cheat Sheet.md",
