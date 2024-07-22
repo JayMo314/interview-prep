@@ -1,3 +1,5 @@
+### Description 
+- The result of this algorithm is the cost of the shortest path from the source node to every node in the graph. 
 ### One Liner
 - Relax all edges of a node while using a priority queue to choose the next node to process, a visited set to ignore previously processed nodes, and an array to store distances for each node. 
 ### Notes
