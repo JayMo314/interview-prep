@@ -21,7 +21,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures/Graphs.md",
+                "file": "Java Fundamentals/Boxing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a56050ef21ddbc17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java Fundamentals/Generics.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures/Graphs.md",
+                "file": "Java Fundamentals/Generics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures/Graphs.md",
+                "file": "Java Fundamentals/Generics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures/Graphs.md"
+                "file": "Java Fundamentals/Generics.md"
               }
             }
           }
@@ -189,15 +201,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cca9cc1779c7f3ce",
+  "active": "a56050ef21ddbc17",
   "lastOpenFiles": [
+    "Java Fundamentals/Boxing.md",
+    "Java Fundamentals/Generics.md",
+    "Data Structures/Graphs.md",
     "Algorithms/Kruskal's.md",
     "Algorithms/Bellman Ford.md",
     "Algorithms/Dijkstra's.md",
     "Bellman Ford",
     "Algorithms/Kadane's Algorithm.md",
-    "Data Structures/Graphs.md",
-    "Java Fundamentals/Boxing.md",
     "Welcome.md",
     "Leet Coding/Cheat Sheet.md",
     "Leet Coding/Dynamic Programming.md",
