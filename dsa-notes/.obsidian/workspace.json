@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leet Coding/Cheat Sheet.md",
+                "file": "Leet Coding/Python Cheat Sheet Outline.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leet Coding/Cheat Sheet.md",
+                "file": "Leet Coding/Python Cheat Sheet Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leet Coding/Cheat Sheet.md",
+                "file": "Leet Coding/Python Cheat Sheet Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leet Coding/Cheat Sheet.md"
+                "file": "Leet Coding/Python Cheat Sheet Outline.md"
               }
             }
           }
@@ -148,23 +148,26 @@
   },
   "active": "a3f9cc41a6b1c914",
   "lastOpenFiles": [
+    "System Design/Twitter.canvas",
+    "Algorithms/Graphs/Bellman Ford.md",
+    "System Design",
+    "Leet Coding/Cheat Sheet.md",
+    "Leet Coding/Python Cheat Sheet Outline.md",
+    "Algorithms/Arrays/Kadane's Algorithm.md",
+    "Algorithms/Graphs/Kruskal's.md",
+    "Algorithms/Graphs/Dijkstra's.md",
+    "Algorithms/Graphs/Hierholzer's Algorithm.md",
+    "Algorithms/Graphs/Prims.md",
     "Leet Coding/Dynamic Programming.md",
     "Leet Coding/Wisdom.md",
-    "Leet Coding/Cheat Sheet.md",
     "Java Fundamentals/Working With Arrays.md",
     "Java Fundamentals/Generics.md",
     "Java Fundamentals/Boxing.md",
     "Data Structures/Trees.md",
-    "Algorithms/Graphs/Bellman Ford.md",
-    "Algorithms/Graphs/Dijkstra's.md",
-    "Algorithms/Graphs/Hierholzer's Algorithm.md",
     "Data Structures/Graphs.md",
-    "Algorithms/Graphs/Prims.md",
     "Algorithms/Graphs",
     "Algorithms/Arrays",
-    "Algorithms/Graphs/Kruskal's.md",
     "Bellman Ford",
-    "Algorithms/Arrays/Kadane's Algorithm.md",
     "Welcome.md",
     "Leet Coding",
     "Java Fundamentals",
