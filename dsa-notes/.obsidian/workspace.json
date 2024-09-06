@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leet Coding/Python Cheat Sheet Outline.md",
+                "file": "Data Structures/Monotonic Stacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leet Coding/Python Cheat Sheet Outline.md",
+                "file": "Data Structures/Monotonic Stacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leet Coding/Python Cheat Sheet Outline.md",
+                "file": "Data Structures/Monotonic Stacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leet Coding/Python Cheat Sheet Outline.md"
+                "file": "Data Structures/Monotonic Stacks.md"
               }
             }
           }
@@ -148,18 +148,27 @@
   },
   "active": "a3f9cc41a6b1c914",
   "lastOpenFiles": [
-    "System Design/Twitter.canvas",
-    "Algorithms/Graphs/Bellman Ford.md",
-    "System Design",
-    "Leet Coding/Cheat Sheet.md",
-    "Leet Coding/Python Cheat Sheet Outline.md",
-    "Algorithms/Arrays/Kadane's Algorithm.md",
+    "Leet Coding/One Liners.md",
+    "Data Structures/Monotonic Stacks.md",
+    "Welcome.md",
+    "create a link.md",
+    "Leet Coding/Micro Patterns.md",
     "Algorithms/Graphs/Kruskal's.md",
+    "Algorithms/Arrays/XOR Tricks.md",
+    "Algorithms/Arrays/Kadane's Algorithm.md",
+    "Leet Coding/Wisdom.md",
+    "Leet Coding/Python Cheat Sheet Outline.md",
+    "Leet Coding/Cheat Sheet.md",
+    "Algorithms/Linked Lists/Floyd's Cycle Finding Algorithm.md",
+    "Algorithms/Graphs/Bellman Ford.md",
+    "System Design/Web Crawler.md",
+    "Algorithms/Linked Lists",
+    "System Design/Twitter.canvas",
+    "System Design",
     "Algorithms/Graphs/Dijkstra's.md",
     "Algorithms/Graphs/Hierholzer's Algorithm.md",
     "Algorithms/Graphs/Prims.md",
     "Leet Coding/Dynamic Programming.md",
-    "Leet Coding/Wisdom.md",
     "Java Fundamentals/Working With Arrays.md",
     "Java Fundamentals/Generics.md",
     "Java Fundamentals/Boxing.md",
@@ -168,7 +177,6 @@
     "Algorithms/Graphs",
     "Algorithms/Arrays",
     "Bellman Ford",
-    "Welcome.md",
     "Leet Coding",
     "Java Fundamentals",
     "Data Structures",

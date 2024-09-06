@@ -1,0 +1,28 @@
+- Functional Requirements 
+	- crawl the full web starting from seed urls
+	- extract text data from store
+- Scale 
+	- 10B web pages
+	- 2MB per page avg
+	- 5 days to scrape
+	- unlimited resources 
+- Non-Functional Requirements 
+	- fault tolerant
+	- politeness (web crawler specific)
+	- scale to 10B pages
+	- efficient crawl in under 5 days
+- Core Entities
+	- text data
+	- URL metadata
+	- domain metadata
+- Interface
+	- input: set of seed urls
+	- output: text data
+- Data flow
+	- take seed urls from a frontier set and request an IP from DNS
+	- fetch HTML
+	- extract text from HTMl
+	- store text in DB
+	- extract URLs from text and add to frontier 
+	- repeat until done
+	

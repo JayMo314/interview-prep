@@ -22,9 +22,12 @@
 
 ### Lists 
 - list comprehension
+- counter
+- accumulate
 ### Graphs
 - map comprehension
 ### Dictionaries
+- del key
 - iterating over each key value pair
 - find max value and return it's key
 ```python
@@ -32,6 +35,9 @@ max_key = max(my_dict, key=lambda k: my_dict[k])
 max_value = my_dict[max_key]
 ```
 - max value in dict: `max(myDict.value())`
+- Ordered Dictionary: `lru = OrderedDict([keys])`
+	- `lru.move_to_end(last=True)`: move to right end
+	- `lru.popitem(last=False)`: remove item from left end 
 ### Sets 
 ### Priority Queues
 ### Intervals
